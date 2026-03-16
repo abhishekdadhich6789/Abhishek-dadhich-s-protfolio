@@ -30,8 +30,7 @@ Tech:
 - Machine Learning
 - Data Analysis
 
-Repo:
-(https://github.com/abhishekdadhich6789/spotifymoodpredictor)
+Repo: (https://github.com/abhishekdadhich6789/spotifymoodpredictor)
 ---
 
 ### 🏎 Formula 1 Prediction Model
@@ -48,8 +47,11 @@ Tech:
 
 A Java-based tank battle game where players aim, fire, and strategize to defeat enemy tanks across multiple levels. Featuring powerups, smooth animations, and dynamic combat mechanics, the game delivers an engaging and responsive gameplay experience.
 
-Built with **Java + Processing**.
-Repo: https://github.com/abhishekdadhich6789/pocket-tanks
+Tech:
+- java
+- oops 
+
+- Repo: https://github.com/abhishekdadhich6789/pocket-tanks
 
 ---
 
