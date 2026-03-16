@@ -31,8 +31,8 @@ Tech:
 - Data Analysis
 
 Repo:
-https://github.com/yourusername/spotify-mood-predictor
-
+[https://github.com/yourusername/spotify-mood-predictor
+](https://github.com/abhishekdadhich6789/spotifymoodpredictor)
 ---
 
 ### 🏎 Formula 1 Prediction Model
