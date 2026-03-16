@@ -38,10 +38,10 @@ Flask-based web platform for university announcements, group chats, and direct m
 
 Tech:
 
--Python (Flask)
--HTML / CSS / JavaScript
--flask
--Web application development
+- Python (Flask)
+- HTML / CSS / JavaScript
+- flask
+
 
 Repo: https://github.com/abhishekdadhich6789/harmony-the-uni-communication-system-
 
