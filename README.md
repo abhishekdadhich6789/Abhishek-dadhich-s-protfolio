@@ -68,8 +68,8 @@ Tech:
 - Node.js
 - Game logic implementation
 
-
 Repo: https://github.com/abhishekdadhich6789/chess
+---
 
 ## 🧠 Skills
 
