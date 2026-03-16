@@ -33,7 +33,17 @@ Tech:
 Repo: https://github.com/abhishekdadhich6789/spotifymoodpredictor
 
 ---
+📨 Uni Communications System
+Flask-based web platform for university announcements, group chats, and direct messaging.
 
+Tech:
+
+Python (Flask)
+HTML / CSS / JavaScript
+SQLAlchemy
+Web application development
+
+Repo: https://github.com/abhishekdadhich6789/harmony-the-uni-communication-system-
 
 ---
 
