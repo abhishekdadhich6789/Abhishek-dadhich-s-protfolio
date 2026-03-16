@@ -59,6 +59,17 @@ Tech:
 Repo: https://github.com/abhishekdadhich6789/pocket-tanks
 
 ---
+♟️ Chess Game
+A TypeScript implementation of the classic chess game featuring player-vs-player gameplay, move validation, and a clean modular structure.
+
+Tech:
+
+- TypeScript
+- Node.js
+- Game logic implementation
+
+
+Repo: https://github.com/abhishekdadhich6789/chess
 
 ## 🧠 Skills
 
