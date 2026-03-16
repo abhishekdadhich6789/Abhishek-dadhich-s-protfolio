@@ -18,7 +18,7 @@ Tech:
 - Game mechanics
 
 Repo:
-[https://github.com/yourusername/inkball](https://github.com/abhishekdadhich6789/inkball)
+[https://github.com/abhishekdadhich6789/inkball]
 
 ---
 
@@ -30,7 +30,8 @@ Tech:
 - Machine Learning
 - Data Analysis
 
-Repo: (https://github.com/abhishekdadhich6789/spotifymoodpredictor)
+Repo: [https://github.com/abhishekdadhich6789/spotifymoodpredictor]
+
 ---
 
 ### 🏎 Formula 1 Prediction Model
