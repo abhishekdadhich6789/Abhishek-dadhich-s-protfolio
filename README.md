@@ -18,7 +18,7 @@ Tech:
 - Game mechanics
 
 Repo:
-https://github.com/yourusername/inkball
+[https://github.com/yourusername/inkball](https://github.com/abhishekdadhich6789/inkball)
 
 ---
 
