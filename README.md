@@ -45,6 +45,12 @@ Tech:
 
 ---
 
+### 🚀 Tank Game
+
+A Java-based tank battle game where players aim, fire, and strategize to defeat enemy tanks across multiple levels. Featuring powerups, smooth animations, and dynamic combat mechanics, the game delivers an engaging and responsive gameplay experience.
+
+Built with **Java + Processing**.
+
 ## 🧠 Skills
 
 Languages:
